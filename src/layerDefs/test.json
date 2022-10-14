@@ -1,0 +1,30 @@
+{
+  "layerDef-id": {
+    "layer": {
+      "id": "layerDef-id",
+      "type": "fill",
+      "layout": {
+        "visibility": "none"
+      }
+    },
+    "source": {
+      "id": "layerDef-id",
+      "type": "fill",
+      "data": "<url-of-map-service>"
+    },
+    "labels": {
+      "parent": "Checkbox Label"
+    },
+    "filters": {
+      "filterByChildren": false
+    },
+    "category": "category-for-tabs",
+    "grouping": "group-name-for-checkbox-grouping-in-colapse-list",
+    "noColourPicker": false,
+    "info": {
+      "shortDescription": "Tooltip description",
+      "longDescriptionTitle": "Title of long description dialogue",
+      "longDescription": "Body of long description dialogue"
+    }
+  }
+}
